@@ -1,0 +1,15 @@
+body,h1,h2,h3,h4,h5 {font-family: "Poppins", sans-serif}
+body {font-size:16px;}
+.w3-half img{margin-bottom:-6px;margin-top:16px;opacity:0.8;cursor:pointer}
+.w3-half img:hover{opacity:1}
+nav#mySidebar{z-index:3;width:300px;font-weight:bold;}
+a.button-a{width:100%;font-size:22px}
+div.w3-main {margin-left:340px;margin-right:40px;}
+hr.w3-round {width:50px;border:5px solid purple;}
+div#showcase {margin-top:80px;}
+div.w3-half img, div.w3-light-grey img{width:100%;}
+div#modal01{padding-top:0;}
+div#services, div#designers, div#packages, div#contact {margin-top:75px;}
+div.w3-padding-32 {margin-top:75px;padding-right:58px;}
+a.close {width:100%;font-size:22px;}
+div.w3-hide-large{cursor:pointer;}
